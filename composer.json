@@ -1,0 +1,14 @@
+{
+    "name": "XeroAPI/XeroOAuth",
+    "description": "PHP class for the Xero API V2 http://developer.xero.com/getting-started/code/php/",
+    "keywords": ["xero", "oauth", "xerooauth"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "XeroOAuth": "lib/"
+        }
+    }
+}
